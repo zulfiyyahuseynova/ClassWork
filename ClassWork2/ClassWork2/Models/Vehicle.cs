@@ -8,15 +8,8 @@ namespace ClassWork2.Models
     {
         public double DriveTime { get; set; }
         public double DrivePath { get; set; }
-        public void AverageSpeed(double drivePath, double driveTime)
-        {
-            DrivePath = drivePath;
-            DriveTime = driveTime;
-            Console.WriteLine($"Sureti: {DrivePath / DriveTime}");
-        }
-        public void ShowInfo()
-        {
-
-        }
+        abstract public double AverageSpeed();
+        abstract public void ShowInfo();
+     
     }
 }

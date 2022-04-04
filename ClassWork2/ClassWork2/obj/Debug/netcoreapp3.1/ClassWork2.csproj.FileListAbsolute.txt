@@ -12,3 +12,17 @@ C:\Users\tu7kswf4d\source\repos\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\Cl
 C:\Users\tu7kswf4d\source\repos\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.dll
 C:\Users\tu7kswf4d\source\repos\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.pdb
 C:\Users\tu7kswf4d\source\repos\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.genruntimeconfig.cache
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\bin\Debug\netcoreapp3.1\ClassWork2.exe
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\bin\Debug\netcoreapp3.1\ClassWork2.deps.json
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\bin\Debug\netcoreapp3.1\ClassWork2.runtimeconfig.json
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\bin\Debug\netcoreapp3.1\ClassWork2.runtimeconfig.dev.json
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\bin\Debug\netcoreapp3.1\ClassWork2.dll
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\bin\Debug\netcoreapp3.1\ClassWork2.pdb
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.csproj.AssemblyReference.cache
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.AssemblyInfoInputs.cache
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.AssemblyInfo.cs
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.csproj.CoreCompileInputs.cache
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.dll
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.pdb
+C:\Users\tu7kswf4d\Desktop\ClassWork\ClassWork2\ClassWork2\obj\Debug\netcoreapp3.1\ClassWork2.genruntimeconfig.cache

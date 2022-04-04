@@ -60,5 +60,18 @@ namespace ClassWork2.Models
         {
             return TankSize - CurrentOil;
         }
+
+        public override double AverageSpeed()
+        {
+            return DrivePath / DriveTime;
+        }
+
+        public override void ShowInfo()
+        {
+            foreach (var item in this.GetType().GetProperties())
+            {
+                Console.WriteLine(item.Name + ":" + item.GetValue(this));
+            }
+        }
     }
 }

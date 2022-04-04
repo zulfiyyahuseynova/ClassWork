@@ -40,6 +40,17 @@ namespace ClassWork2.Models
             DriveTime = driveTime;
             DrivePath = drivePath;
         }
+        public override double AverageSpeed()
+        {
+            return DrivePath / DriveTime;
+        }
+        public override void ShowInfo()
+        {
+            foreach (var item in this.GetType().GetProperties())
+            {
+                Console.WriteLine(item.Name + ":" + item.GetValue(this));
+            }
+        }
     }
 }
 
