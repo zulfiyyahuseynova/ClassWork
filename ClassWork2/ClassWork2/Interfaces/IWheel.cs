@@ -4,8 +4,8 @@ using System.Text;
 
 namespace ClassWork2.Interfaces
 {
-    interface IWheel
+    public interface IWheel
     {
-        public double WheelThikness { get; set; }
+        public double WheelThickness { get; set; }
     }
 }
